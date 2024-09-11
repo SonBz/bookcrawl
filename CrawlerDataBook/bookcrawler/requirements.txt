@@ -1,0 +1,7 @@
+scrapy
+unidecode
+pymongo
+scrapy-fake-useragent
+dnspython
+python-dateutil
+w3lib

@@ -1,0 +1,22 @@
+2019-11-28 02:45:00,051 [INFO]- Running job Every 1 week at 02:45:00 do crawl_schedule() (last run: [never], next run: 2019-11-28 02:45:00)
+2019-11-28 02:45:00,052 [INFO]- ======== RUN CRON CRAWLER DATA-2019-11-28 02:45:00.052645 =========
+2019-11-28 02:45:00,356 [INFO]- MC2_CP-Link : https://ppdvn.gov.vn/web/guest/tra-cuu-luu-chieu?&p=1
+2019-11-28 02:47:00,497 [INFO]- Running job Every 1 week at 02:47:00 do crawl_schedule() (last run: [never], next run: 2019-11-28 02:47:00)
+2019-11-28 02:47:00,497 [INFO]- ======== RUN CRON CRAWLER DATA-2019-11-28 02:47:00.497412 =========
+2019-11-28 02:47:00,755 [INFO]- MC2_CP-Link : https://ppdvn.gov.vn/web/guest/tra-cuu-luu-chieu?&p=1
+2019-11-28 02:47:00,758 [ERROR]- connect 1:No section: 'db_localhost'
+2019-11-28 02:54:00,103 [INFO]- Running job Every 1 week at 02:54:00 do crawl_schedule() (last run: [never], next run: 2019-11-28 02:54:00)
+2019-11-28 02:54:00,104 [INFO]- ======== RUN CRON CRAWLER DATA-2019-11-28 02:54:00.104160 =========
+2019-11-28 02:54:00,477 [INFO]- MC2_CP-Link : https://ppdvn.gov.vn/web/guest/tra-cuu-luu-chieu?&p=1
+2019-11-28 02:56:00,206 [INFO]- Running job Every 1 week at 02:56:00 do crawl_schedule() (last run: [never], next run: 2019-11-28 02:56:00)
+2019-11-28 02:56:00,208 [INFO]- ======== RUN CRON CRAWLER DATA-2019-11-28 02:56:00.207956 =========
+2019-11-28 02:56:00,531 [INFO]- MC2_CP-Link : https://ppdvn.gov.vn/web/guest/tra-cuu-luu-chieu?&p=1
+2019-11-28 09:38:18,459 [INFO]- ======== RUN CRON CRAWLER DATA-2019-11-28 09:38:18.459709 =========
+2019-11-28 09:38:18,805 [INFO]- MC2_CP-Link : https://ppdvn.gov.vn/web/guest/tra-cuu-luu-chieu?&p=1
+2019-11-28 09:38:25,678 [INFO]- ======== RUN CRON CRAWLER DATA-2019-11-28 09:38:25.678551 =========
+2019-11-28 09:38:25,986 [INFO]- MC2_CP-Link : https://ppdvn.gov.vn/web/guest/tra-cuu-luu-chieu?&p=1
+2019-11-28 09:38:52,939 [ERROR]- connect 1:No section: 'db_localhost'
+2019-11-28 09:47:05,453 [INFO]- ======== RUN CRON CRAWLER DATA-2019-11-28 09:47:05.453840 =========
+2019-11-28 09:47:05,784 [INFO]- MC2_CP-Link : https://ppdvn.gov.vn/web/guest/tra-cuu-luu-chieu?&p=1
+2019-11-28 09:52:39,073 [INFO]- ======== RUN CRON CRAWLER DATA-2019-11-28 09:52:39.072833 =========
+2019-11-28 09:52:39,394 [INFO]- MC2_CP-Link : https://ppdvn.gov.vn/web/guest/tra-cuu-luu-chieu?&p=1
